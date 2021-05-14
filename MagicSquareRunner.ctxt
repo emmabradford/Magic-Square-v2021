@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MagicSquareRunner
+comment0.text=\n\ @author\ -\ Mr.\ Bredemeier\n\ @version\ -\ August\ 14,\ 2013\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Constructs\ a\ MagicSquare\ object\ and\ uses\ it\ to\ determine\ if\ a\ 4\ x\ 4\ array\ is\ a\ magic\ square.\n
+comment2.params=array\ test
+comment2.target=void\ testSquare(int[][],\ boolean)
+numComments=3

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MagicSquare
+comment0.text=\n\ @author\ \n\ @version\ \n
+comment1.params=input
+comment1.target=MagicSquare(int[][])
+comment1.text=\n\ Constructs\ a\ MagicSquare\ object.\n\ @param\ input\ the\ magic\ square\ array\ data.\n
+comment2.params=
+comment2.target=boolean\ isMagicSquare()
+comment2.text=\n\ Tests\ to\ see\ if\ array\ is\ indeed\ a\ magic\ square\n\ @return\ true\ if\ array\ is\ a\ magic\ square\n\ @return\ false\ if\ the\ array\ is\ not\ a\ magic\ square\n
+comment3.params=a\ b\ c\ d
+comment3.target=int\ add(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=int\ checkRows()
+comment5.params=
+comment5.target=int\ checkCols()
+comment6.params=
+comment6.target=int\ checkDiag()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\n\ Returns\ a\ String\ which\ represents\ the\ array.\n
+numComments=8
